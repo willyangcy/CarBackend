@@ -1,1 +1,1 @@
-web: java -cp target/classes:target/dependency/* src.main.java.com.packt.cardatabase.CardatabaseApplication
+web: java -cp target/classes:target/dependency/* com.packt.cardatabase.CardatabaseApplication
